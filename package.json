@@ -1,6 +1,6 @@
 {
 	"name": "html-canvas",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Open local HTML study pages with native browser rendering for CSS, MathML, SVG diagrams, and visual notes.",
 	"main": "main.js",
 	"scripts": {
@@ -18,19 +18,19 @@
 	"author": "x1han",
 	"license": "MIT",
 	"devDependencies": {
-		"@types/node": "^16.11.6",
+		"@types/node": "16.18.126",
 		"@typescript-eslint/eslint-plugin": "5.29.0",
 		"@typescript-eslint/parser": "5.29.0",
-		"esbuild": "^0.25.11",
-		"obsidian": "latest",
+		"esbuild": "0.25.12",
+		"obsidian": "1.12.3",
 		"tslib": "2.4.0",
 		"typescript": "4.7.4"
 	},
 	"dependencies": {
-		"@zip.js/zip.js": "^2.6.52",
-		"mark.js": "^8.11.1",
-		"mhtml-to-html": "^2.0.1",
-		"number-precision": "^1.6.0",
-		"single-filez-core": "^1.0.26"
+		"@zip.js/zip.js": "2.8.26",
+		"mark.js": "8.11.1",
+		"mhtml-to-html": "2.0.1",
+		"number-precision": "1.6.0",
+		"single-filez-core": "1.2.21"
 	}
 }
