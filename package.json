@@ -1,7 +1,7 @@
 {
 	"name": "html-canvas",
-	"version": "0.1.0",
-	"description": "Open local HTML study pages in Obsidian with native browser rendering for CSS, MathML, SVG diagrams, and visual notes.",
+	"version": "0.1.1",
+	"description": "Open local HTML study pages with native browser rendering for CSS, MathML, SVG diagrams, and visual notes.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
@@ -21,7 +21,6 @@
 		"@types/node": "^16.11.6",
 		"@typescript-eslint/eslint-plugin": "5.29.0",
 		"@typescript-eslint/parser": "5.29.0",
-		"builtin-modules": "3.3.0",
 		"esbuild": "^0.25.11",
 		"obsidian": "latest",
 		"tslib": "2.4.0",
