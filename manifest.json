@@ -1,7 +1,7 @@
 {
 	"id": "html-canvas",
 	"name": "HTML Canvas",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"minAppVersion": "0.15.3",
 	"description": "Open local HTML study pages with native browser rendering for CSS, MathML, SVG diagrams, and visual notes.",
 	"author": "x1han",
