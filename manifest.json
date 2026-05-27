@@ -1,0 +1,10 @@
+{
+	"id": "html-canvas",
+	"name": "HTML Canvas",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.3",
+	"description": "Open local HTML study pages in Obsidian with native browser rendering for CSS, MathML, SVG diagrams, and visual notes.",
+	"author": "x1han",
+	"authorUrl": "https://github.com/x1han/html-canvas",
+	"isDesktopOnly": false
+}
